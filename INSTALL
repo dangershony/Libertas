@@ -1,0 +1,9 @@
+Building Libertas
+
+See doc/readme-qt.rst for instructions on building Libertas-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Libertas.
+
+See doc/build-*.txt for instructions on building libertasd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Libertas.
